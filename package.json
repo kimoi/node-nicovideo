@@ -12,9 +12,6 @@
         "email": "nori0123@gmail.com",
         "url": "https://github.com/noritama/"
     },
-    "bin": {
-        "": ""
-    },
     "repository": {
         "type": "git",
         "url": "https://github.com/noritama/node-nicovideo.git"
